@@ -1,53 +1,53 @@
-﻿Wing Poon
-
-503-206-2243
-11829 Atlantic Ave, Los Angeles, CA
-wp00n@yahoo.com
-
-github.com/ixig
-linkedin.com/in/wypoon
-wpoon.medium.com
-	
-1. Objective
-* Experienced embedded systems engineer well-versed in hardware, firmware and systems integration ⁠— seeking to transition into machine learning, particularly in industrial or business automation utilizing Computer Vision, NLP or DL. Requiring end-to-end skills in problem specification, system design, ethical considerations, data collection and wrangling, modeling, evaluation, deployment and monitoring.
-
-
-2. Certifications
-•  FourthBrain: Machine Learning Engineer
-	•  TensorFlow.org: TensorFlow Developer
-	•  AWS: Certified Machine Learning Specialty
-	•  AWS: Certified Cloud Practitioner
-	•  DeepLearning.AI (Specializations):
-○  Deep Learning    ○  TensorFlow Developer    ○  TensorFlow Advanced Techniques
+﻿503-206-2243
+	Los Angeles, CA
+	wp00n@yahoo.com
+	github.com/ixig
+	linkedin.com/in/wypoon
+	wpoon.medium.com
 	
 
-3. Projects
-* Domain Fine-Tuned, GPT-2 Auto-Completion Text Editor: A context (2022 Russia-Ukraine War) fine-tuned, causal language-model editor (PoC) for journalists who have to report from the field under difficult conditions and time pressures. Training corpus scraped using APIs. Writers need only type ~40% of the words they otherwise would have to. [Hugging Face, Spacy, Curses, NYT API]
-* Semi-Supervised Methods on Medical Datasets: Fully supervised approaches need large, densely annotated dataset. Utilize Self and Semi-Supervised Learning with Knowledge Distillation on pediatric pneumonia x-rays to significantly reduce the need for fully labeled data. REST API Web-App container deployed on GCP Cloud Run. [TensorFlow, SimCLR, FixMatch, FastAPI, Bootstrap, Docker]
-* Identifying Cancer using Computational Histopathology: Evaluate different machine-learning algorithms for identifying metastatic cancer in small image patches taken from larger digital pathology scans. Understand how traditional hand-engineered Computer Vision features compare against Deep Learning's automatic feature-extraction. [SK-Learn, SK-Image, TensorFlow, Dask, TPOT, PyOD]
+Objective
+* Proven embedded systems engineer looking to transition into Machine Learning in process and business automation, utilizing CV, NLP or DL. End-to-end skills in problem specification, system design, ethical considerations, data collection and wrangling, modeling, evaluation, deployment and monitoring.
 
 
-4. Experience
-* Machine Learning Student (+ Self-Study)  :  FourthBrain (CA)  www.fourthbrain.ai  ,  08/2021 – Present
-16-week bootcamp, backed by Andrew Ng’s AI Fund and designed for students with a professional software background. Engineers apply machine learning and deep learning methods with the goal of deploying end-to-end, scalable and production-ready solutions. Projects vetted by subject-matter experts.
-Working as a 3-persons team, our capstone project won a FourthBrain Top Project Award.
-* Embedded Systems Engineer  :  Kernel (CA)  www.kernel.com  ,  07/2020 – 08/2021
-Co-designed embedded hardware for world's first wearable full-head TD-fNIRS (Time-Domain functional Near-IR Spectroscopy) brain neuroimaging appliance. Miniaturize from rack-mounted to head-mounted system. Validate power delivery and data aggregation pipelines. Develop bringup, diagnostics and production testing firmware. Semiconductor supply-chain risk planning and mitigation.
-* Principal Hardware Engineer  :  Quanergy (CA)  www.quanergy.com  ,  09/2018 – 06/2020
-Complete redesign of next-gen solid-state LiDAR design for cost and form-factor. Redesign and characterization of ultra-short pulsed laser-driver with improved performance. Support new silicon bring-up. Maintain and improve Python/PyQt tools for optoelectronics calibration, data visualization, test automation and data-collection. Develop new algorithms for weak-signal detection.
-* Systems Hardware Engineer  :  Google (CA)  www.google.com  ,  08/2017 – 05/2018
-Lead-EE on Stadia wireless streaming game-controller. Low-power, low-cost, high-volume. From-scratch redesigned for cost, fully-functional from first build. Sensor-EE on Nest Hub smart-display assistant.
-* Principal Hardware Engr. / Firmware Engr  :  GoPro (CA)  www.gopro.com  ,  02/2012 – 06/2017
-API design and coding of Java Aerial SDK for direct control of UAV via smartphone. Launched Camera Hardware SDK for direct control of GoPro cameras by third-party integrators.
-Lead-EE on GoPro Karma, GoPro's very first UAV – Architecture definition, component selection, schematics and layout, prototyping, performance evaluation (EE, RF, ME, Battery, Motors, Sensors), flight and safety testing, design validation, compliance certification and yield improvement.
-Lead-EE on three generations of GoPro's cameras – HD3:Silver, HD3+:Silver, HD4:Session. End-to-end CE product development cycle – hardware and firmware-interface specification, component selection, schematic capture and layout, board bring-up, test plan authoring and execution, compliance testing, EE/ME/FW integration and troubleshooting, ODM DFM/BOM/ECO reviews. 3rd EE hired at GoPro.
-* Sr. Hardware Engr.  :  NaturalPoint (OR)  www.naturalpoint.com  ,  01/2008 – 11/2011
-Responsible for board hardware, firmware and FPGA (Altera Cyclone & Xilinx Spartan) design of USB and Ethernet(PoE) connected IR Motion-Capture camera systems. Complete product line refresh and new product introduction. Development of digital video-processing algorithms and custom IP in Verilog.
+Certifications
+* FourthBrain:  ○ Machine Learning Engineer
+* TensorFlow.org:  ○ TensorFlow Developer
+* AWS (Certified):  ○ Machine Learning Specialty   ○ Solutions Architect   ○ Cloud Practitioner
+* DeepLearning.AI (Specializations):
+○ Deep Learning   ○ TensorFlow Developer   ○ TensorFlow Advanced Techniques
 
 
-5. ML Skills
+Education
+* UC Berkeley: B.S. Electrical Engineering and Computer Science
+
+
+Projects
+* Domain Fine-Tuned, GPT-2 Auto-Completion Text Editor: A PoC context (2022 Russia-Ukraine War) fine-tuned, causal language-model editor for journalists who have to file reports from the field under difficult conditions and time pressures. Training corpus scraped using APIs. Authors need only type ~40% of the words they otherwise would have to.  [Hugging Face, Spacy, Curses, NYT API]
+* Semi-Supervised Methods on Medical Datasets: Fully supervised approaches need large, densely annotated datasets. We utilized Self and Semi-Supervised Learning with Knowledge Distillation on pediatric pneumonia X-Rays to reduce the need for fully labeled data by ~95%. REST-API Web-App container deployed on GCP Cloud Run.  [TensorFlow, SimCLR, FixMatch, FastAPI, Bootstrap, Docker]
+* Identifying Cancer using Computational Histopathology: Evaluate different machine-learning algorithms for identifying metastatic cancer in small image patches taken from larger digital pathology scans. Investigate how hand-engineered Computer Vision features compare against Deep Learning's automatic feature-extraction.  [SK-Learn, SK-Image, TensorFlow, Dask, TPOT, PyOD]
+
+
+Experience
+* Machine Learning Student (+ Self-Study)  :  FourthBrain (CA)  ,  08/2021 – Present
+• Andrew Ng’s AI Fund backed 16-wk bootcamp for students with a professional software background. Engineers apply machine learning and deep learning methods with the goal of deploying end-to-end, scalable and production-ready solutions. Projects vetted by subject-matter experts.
+• Working in a 3-persons team, our CV/DL capstone project won a FourthBrain Top Project Award.
+* Embedded Systems Engineer  :  Kernel (CA)   ,  07/2020 – 08/2021
+• Co-designed embedded platform for world's first wearable full-head TD-fNIRS (Time-Domain functional Near-IR Spectroscopy) brain neuroimaging appliance. Miniaturize from rack-mounted to head-mounted system. Validated power delivery and data aggregation pipelines. Wrote bringup, diagnostics and production testing firmware. Semiconductor supply-chain risk planning and mitigation.
+* Principal Hardware Engineer  :  Quanergy (CA)  ,  09/2018 – 06/2020
+• Complete redesign of next-gen solid-state LiDAR sensor for reliability, cost and form-factor. Redesign and characterization of ultra-short pulsed laser-driver with improved performance. Support new silicon bring-up. Maintain and improve Python/PyQt tools for optoelectronics calibration, data visualization, test automation and data-collection. Develop new algorithms for weak-signal detection.
+* Systems Hardware Engineer  :  Google (CA)  ,  08/2017 – 05/2018
+• Lead-EE on Stadia wireless streaming game-controller. Designed for cost, latency and low-power, fully-functional from first build. Developed ambient color sensor for Nest Hub smart-display assistant.
+* Principal Hardware Engr. / Firmware Engr  :  GoPro (CA)  ,  02/2012 – 06/2017
+• API design and coding of Java Aerial SDK for direct control of UAV via smartphone. Launched Camera Hardware SDK for direct control of GoPro cameras by third-party integrators.
+• Lead-EE on Karma (GoPro's first UAV), and three generations of Hero digital cameras. 3rd EE hired at GoPro. End-to-end CE product development cycle – Architecture and hardware/firmware-interface specification, components selection, schematics and layout, prototyping, performance evaluation, flight and safety testing, design validation, test plan, compliance certification and yield improvement. EE / ME / FW integration and troubleshooting, ODM liaison, DFM / BOM / ECO reviews. 
+* Sr. Hardware Engineer  :  NaturalPoint (OR)  ,  01/2008 – 11/2011
+• Responsible for board hardware, firmware and FPGA (Altera Cyclone & Xilinx Spartan) design of USB and Ethernet(PoE) connected IR Motion-Capture camera systems. Complete product line refresh and new products introduction. Develop digital video-processing algorithms and custom IP in Verilog.
+
+
+ML Skills
 * Libraries: TensorFlow, Keras, PyTorch, Hugging Face, Spacy, OpenCV, SK-Learn, SK-Image, SciPy, Numpy, Pandas, Matplotlib, HDF5, TFRecord, BS4, FastAPI, Pydantic
-* Concepts: Loss-Funcs, Metrics, Bias / Variance, Regularization, Backpropagation, Gradient Descent, Optimizers, Skip-Conn / Chain-Rule, Feature Engr, Dimen Reduction, HP Tuning, Ensembling, Distillation, Attention, Error / Ceiling Analysis, Transfer Learning, Ethical AI
+* Concepts: Loss-Funcs, Metrics, Bias / Variance, Regularization, Backpropagation, Gradient Descent, Optimizers, Skip-Conn / Chain-Rule, Feature Engr, Dimensionality Reduction, HP Tuning, Ensembling, Self-Supervised Learning, Distillation, Attention, Error / Ceiling Analysis, Transfer Learning, Ethical AI
 * ML: LinR / LogR, SVM, Bagging / Boosting, Anomaly Detection, Clustering, Label-Prop, Zero-Shot
 * Sequence Models: RNN, LSTM, WaveNet, Transformers, Language Models, Beam Search, Sampling
 * Vision Models: CNN, GAN, U-Net, YOLO, ResNet, Siamese Net, Feat Extractors, Autoencoders
@@ -55,48 +55,11 @@ Responsible for board hardware, firmware and FPGA (Altera Cyclone & Xilinx Spart
 * CV: Point / Morph / LSIS Ops, Moments, Hist EQ / Otsu, NLM, Non- / Linear Filters, Noise-Est / Weiner, Edge / Line & Shape (Hough) / Corner Detection, LBP / HOG / Haar / SIFT Features, Snakes / Boundaries, Segmentation / GrabCut, Compress Sense / Sparse Repr, DCT / Coding / Quantization
 
 
-6. CS Skills
-* Lingua francas: Python, SQL (basics), Java, C, Assembly
+CS Skills
+* Languages: Python, SQL, Java, C/C++, Assembly
 * ISRs, Concurrency, Object-Oriented Programming, Data Structures, Design Patterns, Version Control
-* Embedded Systems Programming (e.g. STM32CubeMX), Multithreaded RTOS (e.g. FreeRTOS), Android Development, Networking Protocols (e.g. 802.3, ARP, DHCP, IP, UDP, TCP, HTTP)
+* Embedded Systems SDKs (e.g. STM32CubeMX), Multithreaded RTOS (e.g. FreeRTOS), Android Development, Networking Protocols (e.g. 802.3, ARP, DHCP, IP, UDP, TCP, HTTP)
 
 
-7. EE Skills [1]
-* RF Systems: Propagation, Link Budgets, Desense, Antenna Matching, Smith Charts 
-* Bus Interfaces: SDIO, USB, LVDS, ISA, IDE, GPSI, (R/G)MII, SPI, I2C, RS-232, 1-WIRE
-* Memory Interfaces: Async/Sync SRAM, DDR3 DRAM, NAND/NOR FLASH
-* Signal Processing: Signal-Conditioning, Data-Acquisition, FIR Filters, Match Filters, PID controllers
-* Digital Video Processing: Morph Filters, Object-detection, JPEG encoding, Bayer-to-RGB demosaicing
-* FPGA/CPLD: Xilinx Zynq / Spartan-6, Altera Cyclone-III, FLEX-10k
-* Micro-Controllers/Processors: STM32 ARM Cortex, NXP i.MX, TI DM385, SoC ARM1136, Cypress FX2LP, SiLab C8051F, Renesas H8/S, Ubicom IP2K/IP3K, Scenix SX, Microchip PIC, Intel 8051/8086
-* Analog Design: Transistor Amps, BJT/FET Circuits, Op-Amp Circuits, Filters, Signal-Conditioning, Mic/Sensor Interfacing, ADC/DAC/Codec, Clock Synthesis, TimingRecovery, PLL/DLL/DDS
-* Device Interfacing: RS-170 Video, BT.656, Parallel/LVCMOS-LCD, LVDS/CMOS-Sensor, DC/Servo/Stepper-Motor, BLDC ESC, Sensors (Accel/Gyro/Mag/Baro), GPS
-* Power Systems: Switching-Regulators (SMPS), Linear-Regulators, High-Power Li-Ion Battery Charging/Management, Low-Power (Battery-Operated) Design, Power-over-Ethernet (PoE), Power-Management IC (PMIC), Power-Sequencing/Steering/Control
-* Design for EMC: Return currents, Loop Area, Bypassing, Transmission-lines, High-Speed PCB layout
-* Signal Integrity: Impedance/Timing Control, Signal Routing & Termination, Drive-level/Pre-emphasis
-* Regulatory Compliance: RTCA DO-160 (EMC), FCC (EMI), CE (EMC/ESD), HDMI, Shock/Vibe
-
-
-8. Trademark Strengths
-* Communication Skills: Communicating unambiguously through written prose or verbal discourse
-* Self-Motivated: Works independently or collaboratively, being proactive and helpful, taking initiative
-* Productive Learner: Keeping abreast of technology, utilizing/creating tools to improve productivity
-* Deadline and Commitment Driven: Going the extra step to ensure project timeliness
-* Anticipates Problems: Knowledge of common technical pitfalls, practicing preventive disambiguation
-* Attention to Detail: Assumption validation, diligent review and cross-checking, circling back
-* Astute Troubleshooting: Multi-disciplinary engineering knowledge, creative hands-on problem-solving
-* Integrity and Transparency: Keeping team/organization’s best interests at heart, an open book
-* Department-in-One: Specification, scheduling, critical-path/risk planning, procurement, DFA/DFM/DFT
-
-
-9. Articles
+Publications
 * Feature Engineering for Machine Learning: Part I – Data Preprocessing, Part II – Feature Generation
-* Using Google Colab Like a Pro
-
-
-10. Education
-* B.S. Electrical Engineering and Computer Science (University of California at Berkeley)
-* CS Coursework: Microcontrollers, Computer Architecture, Structure & Implementation of Programs, Data Structures, Machine Structures, Operating Systems, Artificial Intelligence, Efficient Algorithms.
-
-________________
-[1] This last page provides background context only and can be TLDR'ed
