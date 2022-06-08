@@ -1,0 +1,64 @@
+﻿Wing Poon
+Los Angeles, CA
+wp00n@yahoo.com
+503-206-2243
+
+https://linkedin.com/in/wypoon
+https://wpoon.medium.com
+https://github.com/ixig
+	
+Objective
+* Proven embedded systems engineer looking to transition into Machine Learning in process and business automation, utilizing CV, NLP or DL. End-to-end skills in problem specification, system design, ethical considerations, data collection and wrangling, modeling, evaluation, deployment and monitoring.
+
+Certifications
+* FourthBrain: ○ Machine Learning Engineer
+* TensorFlow.org: ○ TensorFlow Developer
+* AWS (Certified): ○ Machine Learning Specialty  ○ Solutions Architect  ○ Cloud Practitioner
+* DeepLearning.AI (Specializations):
+○ Deep Learning  ○ TensorFlow Developer  ○ TensorFlow Advanced Techniques
+
+Education
+* UC Berkeley: B.S. Electrical Engineering and Computer Science
+
+Projects
+* Domain Fine-Tuned, GPT-2 Auto-Completion Text Editor: A PoC context (2022 Russia-Ukraine War) fine-tuned, causal language-model editor for journalists who have to file reports from the field under difficult conditions and time pressures. Training corpus scraped using APIs. Authors need only type ~40% of the words they otherwise would have to.  [Hugging Face, Spacy, Curses, NYT API]
+* Semi-Supervised Methods on Medical Datasets: Fully supervised approaches need large, densely annotated datasets. We utilized Self and Semi-Supervised Learning with Knowledge Distillation on pediatric pneumonia X-Rays to reduce the need for fully labeled data by ~95%. REST-API Web-App container deployed on GCP Cloud Run.  [TensorFlow, SimCLR, FixMatch, FastAPI, Bootstrap, Docker]
+* Identifying Cancer using Computational Histopathology: Evaluate different machine-learning algorithms for identifying metastatic cancer in small image patches taken from larger digital pathology scans. Investigate how hand-engineered Computer Vision features compare against Deep Learning's automatic feature-extraction.  [SK-Learn, SK-Image, TensorFlow, Dask, TPOT, PyOD]
+
+Experience
+* Machine Learning Engineer (+ Self-Study) : FourthBrain (CA) , 08/2021 – Present
+• Andrew Ng’s AI Fund backed 16-wk bootcamp for students with a professional software background. Engineers apply machine learning and deep learning methods with the goal of deploying end-to-end, scalable and production-ready solutions. Projects vetted by subject-matter experts.
+• Working in a 3-persons team, our CV/DL capstone project won a FourthBrain Top Project Award.
+
+* Embedded Systems Engineer : Kernel (CA) , 07/2020 – 08/2021
+• Co-designed embedded platform for world's first wearable full-head TD-fNIRS (Time-Domain functional Near-IR Spectroscopy) brain neuroimaging appliance. Miniaturize from rack-mounted to head-mounted system. Validated power delivery and data aggregation pipelines. Wrote bringup, diagnostics and production testing firmware. Semiconductor supply-chain risk planning and mitigation.
+
+* Principal Hardware Engineer : Quanergy (CA) , 09/2018 – 06/2020
+• Complete redesign of next-gen solid-state LiDAR sensor for reliability, cost and form-factor. Redesign and characterization of ultra-short pulsed laser-driver with improved performance. Support new silicon bring-up. Maintain and improve Python/PyQt tools for optoelectronics calibration, data visualization, test automation and data-collection. Develop new algorithms for weak-signal detection.
+
+* Systems Hardware Engineer : Google (CA) , 08/2017 – 05/2018
+• Lead-EE on Stadia wireless streaming game-controller. Designed for cost, latency and low-power, fully-functional from first build. Developed ambient color sensor for Nest Hub smart-display assistant.
+
+* Principal Hardware Engr, Firmware Engr : GoPro (CA) , 02/2012 – 06/2017
+• API design and coding of Java Aerial SDK for direct control of UAV via smartphone. Launched Camera Hardware SDK for direct control of GoPro cameras by third-party integrators.
+• Lead-EE on Karma (GoPro's first UAV), and three generations of Hero digital cameras. 3rd EE hired at GoPro. End-to-end CE product development cycle – Architecture and hardware/firmware-interface specification, components selection, schematics and layout, prototyping, performance evaluation, flight and safety testing, design validation, test plan, compliance certification and yield improvement. EE / ME / FW integration and troubleshooting, ODM liaison, DFM / BOM / ECO reviews. 
+
+* Sr. Hardware Engineer : NaturalPoint (OR) , 01/2008 – 11/2011
+• Responsible for board hardware, firmware and FPGA (Altera Cyclone & Xilinx Spartan) design of USB and Ethernet(PoE) connected IR Motion-Capture camera systems. Complete product line refresh and new products introduction. Develop digital video-processing algorithms and custom IP in Verilog.
+
+ML Skills
+* Libraries: TensorFlow, Keras, PyTorch, Hugging Face, Spacy, OpenCV, SK-Learn, SK-Image, SciPy, Numpy, Pandas, Matplotlib, HDF5, TFRecord, BS4, FastAPI, Pydantic
+* Concepts: Loss-Funcs, Metrics, Bias / Variance, Regularization, Backpropagation, Gradient Descent, Optimizers, Skip-Conn / Chain-Rule, Feature Engr, Dimensionality Reduction, HP Tuning, Ensembling, Self-Supervised Learning, Distillation, Attention, Error / Ceiling Analysis, Transfer Learning, Ethical AI
+* ML: LinR / LogR, SVM, Bagging / Boosting, Anomaly Detection, Clustering, Label-Prop, Zero-Shot
+* Sequence Models: RNN, LSTM, WaveNet, Transformers, Language Models, Beam Search, Sampling
+* Vision Models: CNN, GAN, U-Net, YOLO, ResNet, Siamese Net, Feat Extractors, Autoencoders
+* NLP: Token'tion, TF-IDF, Word2Vec, Embeddings, Lemma'tion, Normal'tion, NER, Similarity Search
+* CV: Point / Morph / LSIS Ops, Moments, Hist EQ / Otsu, NLM, Non- / Linear Filters, Noise-Est / Weiner, Edge / Line & Shape (Hough) / Corner Detection, LBP / HOG / Haar / SIFT Features, Snakes / Boundaries, Segmentation / GrabCut, Compress Sense / Sparse Repr, DCT / Coding / Quantization
+
+CS Skills
+* Languages: Python, SQL, Java, C/C++, Assembly
+* ISRs, Concurrency, Object-Oriented Programming, Data Structures, Design Patterns, Version Control
+* Embedded Systems SDKs (e.g. STM32CubeMX), Multithreaded RTOS (e.g. FreeRTOS), Android Development, Networking Protocols (e.g. 802.3, ARP, DHCP, IP, UDP, TCP, HTTP)
+
+Publications
+* Feature Engineering for Machine Learning: Part I – Data Preprocessing, Part II – Feature Generation
