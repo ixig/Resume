@@ -47,7 +47,7 @@ Experience
 • Responsible for board hardware, firmware and FPGA (Altera Cyclone & Xilinx Spartan) design of USB and Ethernet(PoE) connected IR Motion-Capture camera systems. Complete product line refresh and new products introduction. Develop digital video-processing algorithms and custom IP in Verilog.
 
 ML Skills
-* Libraries: TensorFlow, Keras, PyTorch, Hugging Face, Spacy, OpenCV, SK-Learn, SK-Image, SciPy, Numpy, Pandas, Matplotlib, HDF5, TFRecord, BS4, FastAPI, Pydantic
+* Libraries: TensorFlow, Keras, PyTorch, Hugging Face, Spacy, OpenCV, SK-Learn, SK-Image, SciPy, Numpy, Pandas, Matplotlib, HDF5, TFRecord, BS4, FastAPI, Flask
 * Concepts: Loss-Funcs, Metrics, Bias / Variance, Regularization, Backpropagation, Gradient Descent, Optimizers, Skip-Conn / Chain-Rule, Feature Engr, Dimensionality Reduction, HP Tuning, Ensembling, Self-Supervised Learning, Distillation, Attention, Error / Ceiling Analysis, Transfer Learning, Ethical AI
 * ML: LinR / LogR, SVM, Bagging / Boosting, Anomaly Detection, Clustering, Label-Prop, Zero-Shot
 * Sequence Models: RNN, LSTM, WaveNet, Transformers, Language Models, Beam Search, Sampling
